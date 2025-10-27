@@ -21,7 +21,7 @@
 	"adminBot": [
 		"61568791604271",
 		"61580333625022",
-		"61578153767211",
+		"61582627243556",
 		""
 	],
 	"nisanBot": [
@@ -30,7 +30,7 @@
 	"notes": "YOUR GROUP ID or Tid ID SET NOW , BECAUSE BOT LOGS MESSAGE SENT YOUR GROUP",
 	"whiteListMode": {
 		"enable": false,
-		"whiteListIds": [
+		"whiteListIds": 
 			""
 		],
 		"notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
